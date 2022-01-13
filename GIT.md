@@ -122,5 +122,5 @@ $ git commit -m "커밋 메세지"
 
 ** Staging area에서 git으로 이미 옮겨졌다면 더 add할 필요 없이 commit만 하면 된다. 하지만 수정된 사항은 staging area에 반드시 다시 올려야 함!!
 
-즉, add -> commit 의 반복 기억하지
+*즉, add -> commit 의 반복 기억하기*
 
